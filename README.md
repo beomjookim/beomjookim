@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-<h1 align="center">Hi 👋, I'm Beomjoo "Jayden" Kim</h1>
+<h1 align="center">Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim</h1>
 <h3 align="center">A passionate, tenacious programmer currently living in Korea.  I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA).  I am growing everyday to make my dream of becoming REAL Full-Stack developer come true!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beomjookim&label=Profile%20views&color=0e75b6&style=flat" alt="beomjookim" /> </p>
