@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Beomjoo "Jayden" Kim</h1>
-<h3 align="center">A passionate, tenacious programmer currently living in Korea. I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA). I am growing everyday to make my dream of becoming Full-Stack developer come true!</h3>
+<h3 align="center">A passionate, tenacious programmer currently living in Korea. I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA). I am growing everyday to make my dream of becoming REAL Full-Stack developer come true!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beomjookim&label=Profile%20views&color=0e75b6&style=flat" alt="beomjookim" /> </p>
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/beomjookim/problem-solving-on-Programmers)
 
-- 🌱 I’m currently learning **FrontEnd languages and Tools, mainly JavaScript & React**
+- 🌱 I’m currently learning **FrontEnd languages and frameworks, mainly JavaScript & React**
 
-- 👯 I’m looking to collaborate on **some Open Source Project**
+- 👯 I’m looking to collaborate on **Open-Source Project**
 
-- 🤝 I’m looking for help with **Full-stack engineer career path advice**
+<!-- 👨‍💻 All of my projects are available at [will make this shit!](will make this shit!)-->
 
-- 👨‍💻 All of my projects are available at [will make this shit!](will make this shit!)
-
-- 📝 I regularly write articles on [https://blog.naver.com/newtechlead](https://blog.naver.com/newtechlead)
+- 📝 I write articles on [https://blog.naver.com/newtechlead](https://blog.naver.com/newtechlead)
 
 - 💬 Ask me about **everything! I am a good person to chill with :)**
 
 - 📫 How to reach me **globalman96@naver.com**
 
-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)
+<!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
-- ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days**
+- ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I am down always :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
