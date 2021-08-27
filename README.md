@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=#1E90FF)
 
-<h3 align="center"> A passionate programmer currently living in Seoul and Los Angeles.<br>Growing everyday to become a "REAL" Full-Stack developer in near future!</h3>
+<h3 align="center"> A passionate, cool programmer currently living in Seoul and Los Angeles.<br>Growing everyday to become a "REAL" Full-Stack developer in near future!</h3>
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/beomjookim/problem-solving-on-Programmers)
 
@@ -18,7 +18,7 @@
 
 <!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
-- ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I am down always :)**
+- ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I'm down always :)**
 <br>
 
 <h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
