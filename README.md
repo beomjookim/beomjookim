@@ -20,14 +20,15 @@
 
 - ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I am down always :)**
 <br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/beomjoo-jayden-kim-40a674143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beomjoo-jayden-kim" height="20" width="40" /></a>
 <a href="https://instagram.com/bonjourjaydenkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bonjourjaydenkim/" height="20" width="40" /></a>
 <a href="https://www.leetcode.com/magnate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="magnate" height="20" width="40" /></a>
 <a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="20" width="40" /></a>
-</p>
-<br>
+</p><br>
+
 <h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="30"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="30"/> </p>
 <br>
