@@ -32,15 +32,16 @@
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="30"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="30"/> </p>
 <br>
 
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beomjookim&show_icons=true&locale=en&layout=compact" alt="beomjookim" />
 </div>
 <br>
   
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-![Beomjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomjookim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomjookim)](https://github.com/beomjookim/github-readme-stats)
 </div>
 
 <p align="center">
