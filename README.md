@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate, tenacious programmer currently living in Korea.  I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA).  I am growing everyday to make my dream of becoming REAL Full-Stack developer come true!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beomjookim&label=Profile%20views&color=0e75b6&style=flat" alt="beomjookim" /> </p>
-
 - 🔭 I’m currently working on [Problem Solving](https://github.com/beomjookim/problem-solving-on-Programmers)
 
 - 🌱 I’m currently learning **FrontEnd languages and frameworks, mainly JavaScript & React**
@@ -30,15 +28,15 @@
 <a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools: Frequently Used & Experienced</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="40"/> </p>
+<h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="40"/> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beomjookim&show_icons=true&locale=en&layout=compact" alt="beomjookim" /></p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
