@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=#1E90FF)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20�![image](https://user-images.githubusercontent.com/29809668/131149767-fa3e30a0-0cb9-4317-a9f1-7798ab6bd44e.png)
+,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=#1E90FF)
 <br>
 <h3 align="center"> A passionate & cool programmer currently living in Seoul and Los Angeles.<br>
                     Currently majoring Computer Science & Engineering @ UCLA and truely love it.<br>
