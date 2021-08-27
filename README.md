@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=#1E90FF)
 
-<h3 align="center"> A passionate programmer currently living in Seoul and Los Angeles. Majoring Computer Science & Engineering @ UCLA. Growing everyday to make my dream of becoming "REAL" Full-Stack developer come true!</h3>
+<h3 align="center"> A passionate programmer currently living in Seoul and Los Angeles. Majoring Computer Science & Engineering @ UCLA. Growing everyday to become a "REAL" Full-Stack developer in near future!</h3>
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/beomjookim/problem-solving-on-Programmers)
 
