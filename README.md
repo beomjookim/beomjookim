@@ -3,7 +3,7 @@
 <br>
 <h3 align="center"> A passionate & cool programmer currently living in Seoul and Los Angeles.<br>
                     Currently majoring Computer Science & Engineering @ UCLA and truely love it.<br>
-                    Growing everyday to become a "REAL" Full-Stack developer in near future!<br>
+                    Growing everyday to become a "REAL" Full-Stack developer in near future!<br><br>
 </h3>
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/beomjookim/problem-solving-on-Programmers)
