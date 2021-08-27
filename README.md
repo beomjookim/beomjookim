@@ -30,7 +30,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beomjookim&show_icons=true&locale=en&layout=compact" alt="beomjookim" />
-<img src="https://github-readme-stats.vercel.app/api?username=beomjookim" height="160"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=beomjookim" height="165"><br>
 </div>
 
 <h3 align="center">Connect with me:</h3>
