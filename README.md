@@ -19,7 +19,7 @@
 <!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
 - ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I am down always :)**
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/beomjoo-jayden-kim-40a674143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beomjoo-jayden-kim" height="30" width="40" /></a>
@@ -27,16 +27,16 @@
 <a href="https://www.leetcode.com/magnate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="magnate" height="30" width="40" /></a>
 <a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="40"/> </p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beomjookim&show_icons=true&locale=en&layout=compact" alt="beomjookim" /></p>
-
+<br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+![Beomjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
 </div>
 
 <p align="center">
