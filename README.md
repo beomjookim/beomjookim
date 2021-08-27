@@ -20,7 +20,7 @@
 
 <!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
-- ⚡ Fun fact **I used to be a student-athlete(soccer) for the whole school days. If you want to play soccer or futsal, I'm down always :)**
+- ⚡ Fun fact **I used to be a student-athlete soccer player for the whole school days. Let's play soccer together, I'm down always :)**
 <br>
 
 <h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
