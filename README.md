@@ -8,19 +8,17 @@
 
 - 🌱 I’m currently learning **FrontEnd languages and frameworks, mainly JavaScript & React**
 
-- 👯 I’m looking to collaborate on **Open-Source Project**
-
 <!-- 👨‍💻 All of my projects are available at [will make this shit!](will make this shit!)-->
 
 - 📝 I write articles on [https://blog.naver.com/newtechlead](https://blog.naver.com/newtechlead)
 
-- 💬 Ask me about **everything! I am a good person to chill with :)**
-
-- 📫 How to reach me **globalman96@naver.com**
-
 <!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
-- ⚡ Fun fact **I used to be a student-athlete soccer player for the whole school days. Let's play soccer together, I'm down always :)**
+- 👯 I’m looking to collaborate on **Open-Source Project**
+
+- 📫 Connect me via **globalman96@naver.com**
+
+- ⚡ Fun fact: **Used to be a student-athlete soccer player for the whole school days. Let's play soccer together, I'm down always :)**
 <br>
 
 <h3 align="center">Languages and Tools: Frequently Used & Experienced</h3>
