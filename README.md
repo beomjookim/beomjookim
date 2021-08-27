@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beomjoo "Jayden" Kim</h1>
-<h3 align="center">A passionate, tenacious programmer currently living in Korea. I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA). I am growing everyday to make my dream of becoming REAL Full-Stack developer come true!</h3>
+<h3 align="center">A passionate, tenacious programmer currently living in Korea.  I major Computer Science and Engineering @ University of California, Los Angeles(a.k.a. UCLA).  I am growing everyday to make my dream of becoming REAL Full-Stack developer come true!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beomjookim&label=Profile%20views&color=0e75b6&style=flat" alt="beomjookim" /> </p>
 
@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beomjoo-jayden-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beomjoo-jayden-kim" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bonjourjaydenkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bonjourjaydenkim/" height="30" width="40" /></a>
+<a href="https://instagram.com/bonjourjaydenkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bonjourjaydenkim/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/magnate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="magnate" height="30" width="40" /></a>
-<a href="/https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="30" width="40" /></a>
+<a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
