@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **Used to be a student-athlete soccer player for the whole school days. Let's play ⚽ together, I'm down always :)**
 <br>
 
-<h3 align="center">📙 Languages and Tools: Frequently Used & Experienced 🛠️</h3>
+<h3 align="center">📙 Frequently Used & Experienced Languages 🛠️</h3>
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="80" height="30"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="80" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="80" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="80" height="30"/> </p>
 <br>
 
