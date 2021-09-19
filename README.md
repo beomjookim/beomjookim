@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋,%20I'm%20Beomjoo%20"Jayden"%20Kim&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=#1E90FF)
-<br>
+<br> 
 <h3 align="center"> A passionate & cool programmer currently living in Seoul or Los Angeles :) <br>
                     Currently majoring Computer Science & Engineering @ UCLA and truely love it.<br>
                     Growing everyday to become a "REAL" Full-Stack developer in near future!<br><br>
@@ -15,7 +15,7 @@
 
 <!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
 
-- 👯 I’m looking to collaborate on **Open-Source Projects**
+- 👯 I am looking to collaborate on **Open-Source Projects**
 
 - 📫 Connect me via **globalman96@naver.com**
 
@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=beomjookim" height="165"><br><br>
 </div>
 
-<h3 align="center">🤙 Connect with me 🤝</h3>
+<h3 align="center">🤙 Connect With Me 🤝</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/beomjoo-jayden-kim-40a674143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beomjoo-jayden-kim" height="20" width="40" /></a>
 <a href="https://instagram.com/bonjourjaydenkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bonjourjaydenkim/" height="20" width="40" /></a>
