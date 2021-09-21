@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://blog.naver.com/newtechlead](https://blog.naver.com/newtechlead)
 
-<!-- 📄 Know about my experiences [will make this shit, too!](will make this shit, too!)-->
+<!-- 📄 Know about my experiences [will make this, too!](will make this shit, too!)-->
 
 - 👯 I am looking to collaborate on **Open-Source Projects**
 
