@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FrontEnd languages and frameworks, mainly JavaScript & React**
 
-<!-- 👨‍💻 All of my projects are available at [will make this shit!](will make this shit!)-->
+<!-- 👨‍💻 All of my projects are available at [will make this shit!](will make this!)-->
 
 - 📝 I write articles on [https://blog.naver.com/newtechlead](https://blog.naver.com/newtechlead)
 
