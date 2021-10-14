@@ -15,7 +15,7 @@
 
 <!-- 📄 Know about my experiences [will make this, too!](will make this shit, too!)-->
 
-- 👯 I am looking to collaborate on **Open-Source Projects**
+- 👯 I am looking forward to be collaborating on **Open-Source Projects**
 
 - 📫 Connect me via **globalman96@naver.com**
 
