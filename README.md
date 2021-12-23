@@ -81,7 +81,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://blog.naver.com/newtechlead" target="_blank">
-<img src=C:\Users\globa\OneDrive\바탕 화면\개발\LLFE 1기\naverblog.png style="margin-bottom: 5px;" />
+<img src="C:\Users\globa\OneDrive\바탕 화면\개발\LLFE 1기\naverblog.png" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
