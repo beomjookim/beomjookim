@@ -84,7 +84,7 @@
 <img src="C:\Users\globa\OneDrive\바탕 화면\개발\LLFE 1기\naverblog.png" style="margin-bottom: 5px;" />
 </a>  
 </div>
-[naverblog](https://user-images.githubusercontent.com/29809668/147180523-00b8163b-f478-463b-aa22-a92a8790795c.png)
+![naverblog](https://user-images.githubusercontent.com/29809668/147180680-bce88b6b-e07f-4199-875e-35b7931d60bb.png)
 
 
 <br />
