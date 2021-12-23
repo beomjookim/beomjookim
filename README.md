@@ -81,7 +81,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://blog.naver.com/newtechlead" target="_blank">
-<img src="https://user-images.githubusercontent.com/29809668/147180680-bce88b6b-e07f-4199-875e-35b7931d60bb.png" style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/29809668/147180680-bce88b6b-e07f-4199-875e-35b7931d60bb.png" />
 </a>  
 </div>
 
