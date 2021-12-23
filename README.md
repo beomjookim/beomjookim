@@ -81,7 +81,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
-<a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fnaver-blog-naver-blog-logo-png%2FUVsAuYHZ&psig=AOvVaw0Dx8cxBYG6H6TRJZ3i-oLX&ust=1640313494935000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiCmIvy-PQCFQAAAAAdAAAAABAJ" alt="beomjoo's blog" height="20" width="40" /></a><br><br>
+<a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/29809668/147179597-788e4fe3-e18f-4a2b-a6a4-18048cb81efd.png)
+" alt="beomjoo's blog" height="20" width="40" /></a><br><br>
 
 <br/>  
 
