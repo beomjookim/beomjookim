@@ -71,12 +71,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beomjookim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  check out https://blog.naver.com/newtechlead
-
 
 <br/>  
 
@@ -86,8 +80,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/beomjoo-jayden-kim-40a674143/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
+<a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.naver.com/newtechlead" height="20" width="40" /></a><br><br>
 
 <br/>  
 
