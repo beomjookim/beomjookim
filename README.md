@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">A passionate & cool programmer currently living in Seoul, 🇰🇷 or Los Angeles, 🇺🇸 :)   
-  Currently majoring Computer Science & Engineering @ UCLA and truely love it! ️‍</div>  
+### <div align="center">A passionate programmer currently living in Seoul, 🇰🇷 or Los Angeles, 🇺🇸 :)   
+### <div align="center">Currently majoring Computer Science & Engineering @ UCLA and truely love it! ️‍</div>  
   
 
 - empty  
