@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 50%" />
 </div>  
   
 
@@ -80,11 +80,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/beomjoo-jayden-kim-40a674143/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>
-<a href="https://blog.naver.com/newtechlead" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/29809668/147179597-788e4fe3-e18f-4a2b-a6a4-18048cb81efd.png)
-" alt="beomjoo's blog" height="20" width="40" /></a><br><br>
-
-<br/>  
+<a href="https://blog.naver.com/newtechlead" target="_blank">
+<img src= style="margin-bottom: 5px;" />
+</a>  
+</div>]
 
 
 <br />
