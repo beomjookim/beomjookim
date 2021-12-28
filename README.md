@@ -1,5 +1,5 @@
-<p align="center">
-# < hello, world! this is Beomjoo 'Jayden' Kim />
+<p align="center" font="20">
+  < hello, world! this is Beomjoo 'Jayden' Kim />
 </p>  
 
 ### <div align="center">A passionate programmer currently living in Seoul, 🇰🇷 or Los Angeles, 🇺🇸 :)   
