@@ -1,5 +1,6 @@
-# < hello, world ! />
-  
+<p align="center">
+# < hello, world! this is Beomjoo 'Jayden' Kim />
+</p>  
 
 ### <div align="center">A passionate programmer currently living in Seoul, 🇰🇷 or Los Angeles, 🇺🇸 :)   
 ### <div align="center">Currently majoring Computer Science & Engineering @ UCLA and truely love it! ️‍</div>  
