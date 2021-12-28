@@ -1,4 +1,4 @@
-<p align="center" font="20">
+<p align="center" font-size="20px">
   < hello, world! this is Beomjoo 'Jayden' Kim />
 </p>  
 
