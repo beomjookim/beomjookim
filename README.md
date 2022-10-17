@@ -4,15 +4,6 @@
 ### <div align="center">Currently majoring Computer Science & Engineering @ UCLA! ️‍</div>  
   
 
-- TBD
-  
-
-- TBD
-  
-
-- TBD
-  
-
 - ⚡ Fun fact: **Used to be a student-athlete soccer player for the whole school days. Let's play ⚽ together, I'm down always :)**  
   
 
