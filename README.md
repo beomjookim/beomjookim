@@ -14,24 +14,6 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
-
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/beomjoo-kim/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-
-
-<br />
 
 ----
